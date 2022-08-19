@@ -1,4 +1,4 @@
-[debug] [hello-world] Classpath dependencies List()
-[debug] [hello-world] Dependencies from configurations List()
-[debug] Bloop wrote the configuration of project 'hello-world' to '/home/lap15383/VNG/hello-world/.bloop/hello-world.json'
-[success] Generated .bloop/hello-world.json
+[debug] [sparkhomework] Classpath dependencies List()
+[debug] [sparkhomework] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'sparkhomework' to '/home/lap15383/VNG/SparkHomework/.bloop/sparkhomework.json'
+[success] Generated .bloop/sparkhomework.json

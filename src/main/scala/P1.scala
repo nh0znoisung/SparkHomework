@@ -10,8 +10,8 @@ import java.io.File
 import java.nio.file.{Files, Paths, StandardCopyOption}
 
 object P1 extends App {
-	val PATH_IMPORT:  String = "src/data/2018-2010_import.csv"
-	val PATH_EXPORT:  String = "src/data/2018-2010_export.csv"
+	val PATH_IMPORT:  String = "data/2018-2010_import.csv"
+	val PATH_EXPORT:  String = "data/2018-2010_export.csv"
 
 
 	// Spark setup
