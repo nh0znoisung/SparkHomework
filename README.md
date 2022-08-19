@@ -17,4 +17,4 @@ Run `HelloPySpark.ipynb` for solution by Python (Pyspark)
 ```bash
 start-master.sh
 ```
-Reimport the package install in sbt file. Run 2 main `Object` **P1.scala** and **P2.scala** for **Problem 1**' s solution and **Problem 2**'s solution respectively.
+Reimport the package install in sbt file. Run 2 main `Object` **P1.scala** and **P2.scala** in folder **src/main/scala**  for **Problem 1**' s solution and **Problem 2**'s solution respectively.
